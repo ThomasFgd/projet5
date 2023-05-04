@@ -72,6 +72,11 @@ body {
 	height: auto;
 }
 
+.carrousel-img{
+	width: 100%;
+	height: auto;
+}
+
 #about-me {
 	flex: 2
 }
